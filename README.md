@@ -31,8 +31,6 @@
 - Полное руководство по Python 3: от новичка до профессионала (2021)
 
 ## Hard skills
-<p align="center">
-  <a href="https://skillicons.dev">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=anaconda,bootstrap,css,fastapi,figma,git,github,html,js,jquery,mysql,notion,php,postgres,postman,powershell,py,sass,selenium," />
-  </a>
 </p>
